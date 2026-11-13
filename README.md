@@ -130,7 +130,3 @@ Your dataset may use different feature columns. The JSON keys must exactly match
 - Report precision, recall, F1-score, ROC-AUC, and the confusion matrix, not accuracy alone.
 - Validate on independent data before making any generalization claim.
 - Do not claim clinical usefulness or fabricated performance metrics.
-
-## License
-
-No LICENSE file is included. Before redistribution, choose a project license and verify that the dataset's terms permit your intended use.
